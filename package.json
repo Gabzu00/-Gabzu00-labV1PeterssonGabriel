@@ -1,0 +1,20 @@
+{
+  "name": "labV1PeterssonGabriel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runServer": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0",
+    "sqlite3": "^5.1.4"
+  }
+}
